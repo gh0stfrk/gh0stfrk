@@ -33,10 +33,10 @@ Currently at **Travelex**, working on:
 
 <p align="center">
   <a href="https://github.com/gh0stfrk">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gh0stfrk&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gh0stfrk&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/gh0stfrk?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stfrk&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stfrk&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </a>
 </p>
 
