@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://salmansyyd.com" target="_blank">🌐 Portfolio</a>
+  <a href="https://salmansyyd.com">🌐 Portfolio</a>
 </p>
 
 ---
