@@ -32,12 +32,22 @@ Currently at **Travelex**, working on:
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gh0stfrk&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stfrk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/gh0stfrk">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gh0stfrk&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/gh0stfrk?tab=repositories">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stfrk&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gh0stfrk&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gh0stfrk&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focused%20On-Backend%20Engineering-EA4AAA?style=for-the-badge" alt="Focused On Backend Engineering" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud AWS" />
+  <img src="https://img.shields.io/badge/Data-ETL%20Pipelines-6C63FF?style=for-the-badge" alt="Data ETL Pipelines" />
 </p>
 
 ---
