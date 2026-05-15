@@ -19,6 +19,15 @@ Currently at **Travelex**, working on:
 
 ---
 
+## 💼 Experience
+
+**Sept 2025 – Present**  
+**Junior Software Developer — Travelex**
+
+Working on backend modernization initiatives, building and maintaining APIs and integration workflows for high-volume financial systems using Node.js, TypeScript, AWS, and distributed service patterns.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, Go, SQL
